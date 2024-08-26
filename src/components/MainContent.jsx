@@ -8,8 +8,8 @@ export function MainContent() {
           Captions and Cocreator, enable you to do more than you ever imagined.
         </p>
       </div>
-      <div className="rightBox">
-        <img src="./images/main-pc.avif" alt="" className="" />
+      <div className="rightBox object-center">
+        <img src="./images/main-pc.avif" alt="" className="bg-cover" />
       </div>
     </div>
   );
