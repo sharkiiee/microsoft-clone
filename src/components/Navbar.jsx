@@ -72,6 +72,7 @@ export function Navbar() {
           <div className="items flex flex-col justify-center items-center">
             <img src="./images/coin4.svg" alt="image error" className="h-12" />
             <span className="font-medium">Explore Surface devices</span>
+            <span></span>
           </div>
         </div>
       </div>
