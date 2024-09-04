@@ -55,21 +55,21 @@ export function Navbar() {
 
         {/* Promo code */}
 
-        <div className="promo flex flex-wrap text-center justify-center space-x-28 space-y-5">
+        <div className="promo flex flex-wrap text-center justify-center space-x-12">
 
-          <div className="items flex flex-col justify-center items-center">
+          <div className="items flex flex-col justify-center items-center my-3">
             <img src="./images/coin1.svg" alt="image error" className="h-12" />
             <span className="font-medium">Choose your Microsoft 365</span>
           </div>
-          <div className="items flex flex-col justify-center items-center">
+          <div className="items flex flex-col justify-center items-center my-3">
             <img src="./images/coin2.svg" alt="image error" className="h-12" />
             <span className="font-medium">Shop xbox</span>
           </div>
-          <div className="items flex flex-col justify-center items-center">
+          <div className="items flex flex-col justify-center items-center my-3">
             <img src="./images/coin3.svg" alt="image error" className="h-12" />
             <span className="font-medium">Get Window 11</span>
           </div>
-          <div className="items flex flex-col justify-center items-center">
+          <div className="items flex flex-col justify-center items-center my-3">
             <img src="./images/coin4.svg" alt="image error" className="h-12" />
             <span className="font-medium">Explore Surface devices</span>
             <span></span>
